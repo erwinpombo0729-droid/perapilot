@@ -1,0 +1,8 @@
+{
+  "name": "perapilot-tests",
+  "private": true,
+  "description": "logic.test.js needs only Node 18+. smoke/e2e/overflow scripts need Playwright (npm i playwright) and a local server.",
+  "scripts": {
+    "test": "node --test logic.test.js"
+  }
+}
